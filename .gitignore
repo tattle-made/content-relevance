@@ -2,5 +2,9 @@
 .ipynb_checkpoints/*
 .log
 working-files/*
+<<<<<<< HEAD
 env/*
 *.csv 
+=======
+env/*
+>>>>>>> 8d9d90d119aaf7ff0c0f0cfdac82803fc9ddae67
