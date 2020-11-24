@@ -3,3 +3,4 @@
 .log
 working-files/*
 env/*
+.DS_Store
